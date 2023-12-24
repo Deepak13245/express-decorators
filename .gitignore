@@ -1,0 +1,9 @@
+.env
+dist
+node_modules
+*.log
+.idea
+.vscode
+scratch
+.env.test
+coverage
